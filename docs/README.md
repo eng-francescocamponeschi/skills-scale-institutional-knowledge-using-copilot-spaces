@@ -4,9 +4,9 @@ Welcome! This folder is the source of truth for how OctoAcme runs projects. Whet
 
 ## Overview
 
-OctoAcme's project management approach is built around a clear lifecycle — **initiation → planning → execution → release → retrospective** — with customer value and iterative delivery at its core. Each project has named owners (a Project Manager and a Product Lead), a shared backlog, and defined acceptance criteria so the whole team stays aligned on what "done" means.
+OctoAcme's project management approach is built around a clear lifecycle — **initiation → planning → execution → release → retrospective** — with customer value and iterative delivery at its core. Each project has named owners (a Project Manager (PM) and a Product Lead—often the Product Manager/PdM), a shared backlog, and defined acceptance criteria so the whole team stays aligned on what "done" means.
 
-Well-defined roles keep accountability clear. **Project Managers** coordinate delivery, schedules, risks, and communications. **Product Managers** own the product vision, prioritize the backlog, and measure outcomes. **Developers** design, build, test, and review code while surfacing technical risks. **QA/Testing** validates acceptance criteria and quality. **Stakeholders** provide inputs and approvals at key lifecycle gates.
+Well-defined roles keep accountability clear. **Project Managers (PMs)** coordinate delivery, schedules, risks, and communications. **Product Leads / Product Managers (PdM)** own the product vision, prioritize the backlog, and measure outcomes. **Developers** design, build, test, and review code while surfacing technical risks. **QA/Testing** validates acceptance criteria and quality. **Stakeholders** provide inputs and approvals at key lifecycle gates.
 
 Communication runs on a regular cadence: weekly PM/PdM syncs, twice-weekly delivery team standups, monthly stakeholder updates, and ad-hoc escalation through defined levels when blockers arise. Day-to-day work is tracked on a project board (Backlog → Ready → In Progress → In Review → QA → Done), and progress is surfaced through weekly delivery syncs and sprint or milestone demos.
 
